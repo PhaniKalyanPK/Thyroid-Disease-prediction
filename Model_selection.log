@@ -1,0 +1,74 @@
+2023-01-30 11:20:14 Reading training dataset.........
+2023-01-30 11:21:00 Reading training dataset.........
+2023-01-30 11:21:00 Read the training data successfully.
+2023-01-30 11:21:00 Reading testing dataset........
+2023-01-30 11:21:00 Read the testing data successfully.
+2023-01-30 11:21:00 Reading validation dataset........
+2023-01-30 11:21:26 Reading training dataset.........
+2023-01-30 11:21:26 Read the training data successfully.
+2023-01-30 11:21:26 Reading testing dataset........
+2023-01-30 11:21:26 Read the testing data successfully.
+2023-01-30 11:21:26 Reading validation dataset........
+2023-01-30 11:21:26 Read the validation data successfully.
+2023-01-30 11:21:26 Creating the pipelines.....
+2023-01-30 11:21:26 Pipelines created.
+2023-01-30 11:21:26 Builiding an ANN model....
+2023-01-30 11:21:27 ANN built and compiled.
+2023-01-30 11:21:27 Fitting the pipelines and ANN
+2023-01-30 11:21:32 All the pipelines fitted.
+2023-01-30 11:21:37 ANN trained and validated
+2023-01-30 11:21:37 Predicting on validation data
+2023-01-30 11:21:39 Prediction done.
+2023-01-30 11:21:39 Displaying the performance metrics of all the model.......
+2023-01-30 11:21:39 Accuracy of Logistic_Regression 71.12
+2023-01-30 11:21:39 Recall of Logistic_Regression 0.67
+2023-01-30 11:21:39 ===================================================================
+2023-01-30 11:21:39 Accuracy of KNN 75.05
+2023-01-30 11:21:39 Recall of KNN 0.67
+2023-01-30 11:21:39 ===================================================================
+2023-01-30 11:21:39 Accuracy of SVC 73.07
+2023-01-30 11:21:39 Recall of SVC 0.65
+2023-01-30 11:21:39 ===================================================================
+2023-01-30 11:21:39 Accuracy of xgboost 86.21
+2023-01-30 11:21:39 Recall of xgboost 0.78
+2023-01-30 11:21:39 ===================================================================
+2023-01-30 11:21:39 Accuracy of decision_tree 81.48
+2023-01-30 11:21:39 Recall of decision_tree 0.71
+2023-01-30 11:21:39 ===================================================================
+2023-01-30 11:21:39 Accuracy of Random_forest 85.88
+2023-01-30 11:21:39 Recall of Random_forest 0.76
+2023-01-30 11:21:39 Select the best performing model and Model Selection phase is completed.
+2023-03-27 13:38:42 Reading training dataset.........
+2023-03-27 13:38:42 Read the training data successfully.
+2023-03-27 13:38:42 Reading testing dataset........
+2023-03-27 13:38:42 Read the testing data successfully.
+2023-03-27 13:38:42 Reading validation dataset........
+2023-03-27 13:38:42 Read the validation data successfully.
+2023-03-27 13:38:42 Creating the pipelines.....
+2023-03-27 13:38:42 Pipelines created.
+2023-03-27 13:38:42 Builiding an ANN model....
+2023-03-27 13:38:43 ANN built and compiled.
+2023-03-27 13:38:43 Fitting the pipelines and ANN
+2023-03-27 13:38:59 All the pipelines fitted.
+2023-03-27 13:39:18 ANN trained and validated
+2023-03-27 13:39:18 Predicting on validation data
+2023-03-27 13:39:25 Prediction done.
+2023-03-27 13:39:25 Displaying the performance metrics of all the model.......
+2023-03-27 13:39:25 Accuracy of Logistic_Regression 70.58
+2023-03-27 13:39:25 Recall of Logistic_Regression 0.67
+2023-03-27 13:39:25 ===================================================================
+2023-03-27 13:39:25 Accuracy of KNN 74.19
+2023-03-27 13:39:25 Recall of KNN 0.64
+2023-03-27 13:39:25 ===================================================================
+2023-03-27 13:39:26 Accuracy of SVC 73.14
+2023-03-27 13:39:26 Recall of SVC 0.66
+2023-03-27 13:39:26 ===================================================================
+2023-03-27 13:39:26 Accuracy of xgboost 86.53
+2023-03-27 13:39:26 Recall of xgboost 0.79
+2023-03-27 13:39:26 ===================================================================
+2023-03-27 13:39:26 Accuracy of decision_tree 81.7
+2023-03-27 13:39:26 Recall of decision_tree 0.72
+2023-03-27 13:39:26 ===================================================================
+2023-03-27 13:39:26 Accuracy of Random_forest 85.34
+2023-03-27 13:39:26 Recall of Random_forest 0.75
+2023-03-27 13:39:26 Select the best performing model and Model Selection phase is completed.

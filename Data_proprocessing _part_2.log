@@ -1,0 +1,46 @@
+2023-01-30 11:15:23 Reading the dataset.........
+2023-01-30 11:17:38 Reading the dataset.........
+2023-01-30 11:17:38 Read the dataset successfully.
+2023-01-30 11:17:38 Replaced all ? into Null values.
+2023-01-30 11:17:38 Droped column TBG and T3 for high missing values.
+2023-01-30 11:17:38 Droped outliers from age feature.
+2023-01-30 11:17:38 Droped outliers from TSH feature.
+2023-01-30 11:17:38 Encoded the categorical features.
+2023-01-30 11:17:38 Imputation of trainind and testing missing values with KNNImputer initiated......
+2023-01-30 11:17:39 Successfully imputed the missing values in train and test.
+2023-01-30 11:17:39 Created training, testing and validation dataset.
+2023-01-30 11:17:39 Initiated imputation in validation dataset.
+2023-01-30 11:17:39 Successfully imputed in validation dataset.
+2023-01-30 11:17:39 Fixing imbalanced data initiated.....
+2023-01-30 11:17:39 fixed imbalanced data in train dataset.
+2023-01-30 11:17:39 fixed imbalanced data in test dataset.
+2023-01-30 11:17:39 fixed imbalanced data in validation dataset.
+2023-01-30 11:17:39 saving the training data.....
+2023-01-30 11:17:39 Successfully saved the training data.
+2023-01-30 11:17:39 saving the testing data.....
+2023-01-30 11:17:39 Successfully saved the testing data.
+2023-01-30 11:17:39 saving the validation data......
+2023-01-30 11:17:39 Successfully saved the validation data.
+2023-03-27 13:13:58 Reading the dataset.........
+2023-03-27 13:15:33 Reading the dataset.........
+2023-03-27 13:15:33 Read the dataset successfully.
+2023-03-27 13:15:33 Replaced all ? into Null values.
+2023-03-27 13:15:33 Droped column TBG and T3 for high missing values.
+2023-03-27 13:15:33 Droped outliers from age feature.
+2023-03-27 13:15:33 Droped outliers from TSH feature.
+2023-03-27 13:15:33 Encoded the categorical features.
+2023-03-27 13:15:33 Imputation of trainind and testing missing values with KNNImputer initiated......
+2023-03-27 13:15:34 Successfully imputed the missing values in train and test.
+2023-03-27 13:15:34 Created training, testing and validation dataset.
+2023-03-27 13:15:34 Initiated imputation in validation dataset.
+2023-03-27 13:15:34 Successfully imputed in validation dataset.
+2023-03-27 13:15:34 Fixing imbalanced data initiated.....
+2023-03-27 13:15:34 fixed imbalanced data in train dataset.
+2023-03-27 13:15:34 fixed imbalanced data in test dataset.
+2023-03-27 13:15:34 fixed imbalanced data in validation dataset.
+2023-03-27 13:15:34 saving the training data.....
+2023-03-27 13:15:34 Successfully saved the training data.
+2023-03-27 13:15:34 saving the testing data.....
+2023-03-27 13:15:34 Successfully saved the testing data.
+2023-03-27 13:15:34 saving the validation data......
+2023-03-27 13:15:34 Successfully saved the validation data.
